@@ -1,1 +1,2 @@
-Adicionando texto qualquer
+Adicionando texto qualquer direto pelo repositório.
+Alteração feita na pasta master.
